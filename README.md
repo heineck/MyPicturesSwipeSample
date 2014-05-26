@@ -1,4 +1,4 @@
 MyPicturesSwipeSample
 =====================
 
-Exemplo de criação de um visualizador de imagens por swipe
+Exemplo de criação de um visualizador de imagens por swipe em Android.
